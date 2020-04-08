@@ -18,5 +18,5 @@ With a free Twilio account, you only get to text verified numbers.
 ### 10. Open send_sms.py and Run it!
 
 <div style="float:center">
- <img  src="SMS.PNG" width=500>
+ <img  src="SMS.jpg" width=500>
   </div>
